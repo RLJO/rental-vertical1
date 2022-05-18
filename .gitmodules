@@ -2,3 +2,8 @@
 	path = RLJO/rental-vertical
 	url = git@github.com:RLJO/rental-vertical.git
 	branch = v15
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 15.0
