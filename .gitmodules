@@ -1,0 +1,4 @@
+[submodule "RLJO/rental-vertical"]
+	path = RLJO/rental-vertical
+	url = git@github.com:RLJO/rental-vertical.git
+	branch = v15
