@@ -22,3 +22,8 @@
 	path = OCA/account-closing1
 	url = git@github.com:OCA/account-closing.git
 	branch = 15.0
+
+[submodule "Jarsa/transport-management-system"]
+	path = Jarsa/transport-management-system
+	url = git@github.com:Jarsa/transport-management-system.git
+	branch = 15.0
